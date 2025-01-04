@@ -1,11 +1,10 @@
-```markdown
+
 Simple Login and To-Do List App
 
-A Python-based console application that combines a **user login system** with a simple **to-do list manager****. The project supports **user registration**, **login**, **account management (unregister)**, and a personalized to-do list. This application is beginner-friendly and demonstrates basic file handling and user authentication in Python.
+A Python-based console application that combines a **user login system** with a simple **to-do list manager**. The project supports **user registration**, **login**, **account management (unregister)**, and a personalized to-do list. This application is beginner-friendly and demonstrates basic file handling and user authentication in Python.
 
----
 
-## Features
+Features
 
 1. **User Registration**
    - Create a new account with a unique username and password.
@@ -132,11 +131,6 @@ A Python-based console application that combines a **user login system** with a 
 
 - Python 3.x
 
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -148,5 +142,5 @@ Feel free to contribute to this project by submitting a pull request. If you enc
 
 ## Author
 
-Developed by **[Your Name]**  
-GitHub: [https://github.com/<your-username>](https://github.com/<
+Developed by Asha V K R
+GitHub: [[https://github.com/<your-username>](https://github.com/<](https://github.com/aasharaaj)
