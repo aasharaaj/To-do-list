@@ -1,9 +1,7 @@
-Here's the code for the **README.md** file. You can copy and paste it directly into a file named `README.md` in your GitHub repository.
-
 ```markdown
-# Simple Login and To-Do List App
+Simple Login and To-Do List App
 
-A Python-based console application that combines a **user login system** with a simple **to-do list manager**. The project supports **user registration**, **login**, **account management (unregister)**, and a personalized to-do list. This application is beginner-friendly and demonstrates basic file handling and user authentication in Python.
+A Python-based console application that combines a **user login system** with a simple **to-do list manager****. The project supports **user registration**, **login**, **account management (unregister)**, and a personalized to-do list. This application is beginner-friendly and demonstrates basic file handling and user authentication in Python.
 
 ---
 
